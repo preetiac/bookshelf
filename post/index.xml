@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My first Hugo Site </title>
-    <link>http://example.org/post/</link>
+    <link>https://github.com/preetiac/bookshelf.git/post/index.xml</link>
     <language>en-us</language>
     <author>Preeti Acharya</author>
     <rights>(C) 2017</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>variant 4</title>
-          <link>http://example.org/post/variant4/</link>
+          <link>https://github.com/preetiac/bookshelf.git/post/variant4/</link>
           <pubDate>Thu, 06 Apr 2017 16:34:18 IST</pubDate>
           <author>Preeti Acharya</author>
-          <guid>http://example.org/post/variant4/</guid>
+          <guid>https://github.com/preetiac/bookshelf.git/post/variant4/</guid>
           <description>&lt;p&gt;This page is for variant 4 !!!&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>variant 3</title>
-          <link>http://example.org/post/variant3/</link>
+          <link>https://github.com/preetiac/bookshelf.git/post/variant3/</link>
           <pubDate>Thu, 06 Apr 2017 16:34:09 IST</pubDate>
           <author>Preeti Acharya</author>
-          <guid>http://example.org/post/variant3/</guid>
+          <guid>https://github.com/preetiac/bookshelf.git/post/variant3/</guid>
           <description>&lt;p&gt;This page is for variant 3 !!!&lt;/p&gt;
 </description>
         </item>
@@ -36,10 +36,10 @@
       
         <item>
           <title>Variant 1</title>
-          <link>http://example.org/post/hello-read/</link>
+          <link>https://github.com/preetiac/bookshelf.git/post/hello-read/</link>
           <pubDate>Thu, 06 Apr 2017 16:33:59 IST</pubDate>
           <author>Preeti Acharya</author>
-          <guid>http://example.org/post/hello-read/</guid>
+          <guid>https://github.com/preetiac/bookshelf.git/post/hello-read/</guid>
           <description>&lt;p&gt;Hello World !!!&lt;/p&gt;
 </description>
         </item>
@@ -48,10 +48,10 @@
       
         <item>
           <title>Variant 2</title>
-          <link>http://example.org/post/good-to-great/</link>
+          <link>https://github.com/preetiac/bookshelf.git/post/good-to-great/</link>
           <pubDate>Thu, 06 Apr 2017 16:33:35 IST</pubDate>
           <author>Preeti Acharya</author>
-          <guid>http://example.org/post/good-to-great/</guid>
+          <guid>https://github.com/preetiac/bookshelf.git/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
